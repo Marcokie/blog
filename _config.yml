@@ -1,0 +1,7 @@
+title: "My Blog"
+description: "Articles published from GitHub"
+baseurl: ""  # leave blank if publishing at root
+url: "https://yourdomain.com"  # or https://username.github.io
+theme: minima
+plugins:
+  - jekyll-feed
