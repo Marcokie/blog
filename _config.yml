@@ -1,6 +1,6 @@
 title: "My Blog"
 description: "Articles published from GitHub"
-baseurl: ""  # leave blank if publishing at root
+baseurl: "/blog"  # leave blank if publishing at root
 url: "https://marcokie.github.io"  # or https://username.github.io
 theme: minima
 plugins:
